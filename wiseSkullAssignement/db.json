@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "name": "Avinash",
+      "password": "123456",
+      "email": "aman@gmail.com",
+      "mobile": "1234567890",
+      "address": "House 80, indra nagar thatipur",
+      "id": 6,
+      "phone": "123424"
+    },
+    {
+      "name": "Saransh",
+      "password": "sarandh",
+      "email": "saransh@gmail.com",
+      "mobile": "12384789",
+      "address": "89 Indra Nagar, Thatipur , Gwalior",
+      "id": 7
+    }
+  ]
+}
